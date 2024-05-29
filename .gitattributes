@@ -1,0 +1,4 @@
+build/* filter=lfs diff=lfs merge=lfs -text
+CadastroEE-war/* filter=lfs diff=lfs merge=lfs -text
+dist/* filter=lfs diff=lfs merge=lfs -text
+lib/* filter=lfs diff=lfs merge=lfs -text
